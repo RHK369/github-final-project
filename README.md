@@ -1,5 +1,6 @@
 # github-final-project
-Coursera github project 
+Coursera github project.
+
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 Input:
    p, principal amount
